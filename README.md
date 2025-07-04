@@ -3,6 +3,11 @@ Autofarm-Script
 
 ## Wichtig zum Starten
 
+pip install pyautogui opencv-python
+
+pip install pillow
+
+
 ### Einstellungen in PokeOne:
 - **Einstellungen → Optionen → „Select with Key“:** Aktivieren
 - **Angel in Hotbar 1 legen**
